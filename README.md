@@ -31,18 +31,4 @@ If your interested,You can contact either of us on the contacts below.
 
 ## Contact:
 
-### Syed Murtaza Ali Shah
-
-Email: murtazaalimashadi1999@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/syed-murtaza-ali-shah
-
-Twitter: MurtazaAli7786
-
-### Abubakar Mujahid
-
-Email: abubakarmujahid672@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/abubakar-m-747940103/
-
-Twitter: abubakar_672
+###
