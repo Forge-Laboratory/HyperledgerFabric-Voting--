@@ -29,6 +29,6 @@ If your interested,You can contact either of us on the contacts below.
 #### 7) in the second terminal type Npm run dev
 #### 8) Viola you've successfully launched both the front and the backend, go ahead and use it :)
 
-## Contact:
+## Contact
 
 ###
