@@ -20,7 +20,7 @@ If your interested,You can contact either of us on the contacts below.
 
 # Instructions of running it locally
 
-#### 1) git clone https://github.com/Abubakar-FYP/Voting-System-using-HyperledgerFabric
+#### 1) git clone https://github.com/Forge-Laboratory/HyperledgerFabric-Voting--
 #### 2) open two terminals, gitbash(recommmended because its fast on windows, you can use any terminal like powershell/command prompt)
 #### 3) go to root of directory in the first terminal, your directory should be the same in which app.js is present
 #### 4) go from root directory to FrontEnd directory in the second terminal, 
